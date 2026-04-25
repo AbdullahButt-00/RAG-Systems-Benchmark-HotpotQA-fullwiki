@@ -1,0 +1,10 @@
+venv/
+__pycache__/
+*.pyc
+*.faiss
+*.pkl
+DATASET/
+checkpoint.json
+pageindex_docs/
+temp_repo/
+*.arrow

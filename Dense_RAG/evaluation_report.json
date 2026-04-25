@@ -1,0 +1,10 @@
+{
+  "samples_evaluated": 500,
+  "exact_match": 0.084,
+  "token_f1": 0.14522695745388706,
+  "supporting_fact_f1": 0.050857142857142865,
+  "recall_at_5": 0.162,
+  "mrr": 0.1463,
+  "mean_latency_ms": 48205.76634487595,
+  "p95_latency_ms": 80049.19889439837
+}
