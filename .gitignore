@@ -8,3 +8,6 @@ checkpoint.json
 pageindex_docs/
 temp_repo/
 *.arrow
+*/storage/
+*/data/corpus.json
+*/data/context_clusters.json
